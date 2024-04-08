@@ -145,7 +145,7 @@
     <el-button style="margin-right:10px;zoom:1.5;" type="info" @click="back">撤销</el-button>
     <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="check">提交</el-button>
     <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="replay">重做</el-button>
-    <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="last()">上一组词汇</el-button>
+    <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="last();replay()">上一组词汇</el-button>
     <!-- <el-button>目前第1组</el-button> -->
     <!-- <el-select
       v-model="value"
@@ -161,7 +161,7 @@
       />
     </el-select> -->
     <el-button>第{{groupIndex + 1}}组</el-button>
-    <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="next()">下一组词汇</el-button>
+    <el-button style="margin-right:10px;zoom:1.5;" type="primary" @click="next();replay()">下一组词汇</el-button>
   </div>
   
 
@@ -397,19 +397,21 @@ export default {
       console.log('314',correctLine)
       console.log('317',showLine.value)
 
-      correctLine = showLine.value.filter(item => {
+      let correctLineNumber = showLine.value.filter(item => {
         if(correctLine.includes(item)){
           return item
         }
       })
-      console.log('324',correctLine)
+      console.log('324',correctLineNumber)
       
-      correctLine.forEach(item => {
+      correctLineNumber.forEach(item => {
         checkStartCorrectIndex.value.push(parseInt(item.toString()[0]) - 1)//把正确的线条的第一个数给出来
         checkEndCorrectIndex.value.push(parseInt(item.toString()[1]) - 1)//把正确的线条的第二个数取出来
       })
 
       showAnswer.value = true //展示答案
+
+      showLine.value = correctLine
     }
 
     function replay(){

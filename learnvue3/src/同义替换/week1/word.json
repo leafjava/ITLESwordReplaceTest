@@ -71,10 +71,7 @@
     "start": {"word": "tricky", "transform": "棘手的"},
     "end": {"word": "challenging", "transform": "有挑战性的"}
   },
-  {
-    "start": {"word": "contain", "transform": "包含"},
-    "end": {"word": "full of", "transform": "充满"}
-  },
+
   {
     "start": {"word": "bad weather", "transform": "坏天气"},
     "end": {"word": "snowy or windy", "transform": "下雪或刮风"}
