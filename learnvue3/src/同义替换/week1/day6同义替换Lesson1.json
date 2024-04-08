@@ -95,5 +95,25 @@
   {
     "start": {"word": "play an important part in", "transform": "发挥重要作用"},
     "end": {"word": "have an enormous impact on", "transform": "产生巨大影响"}
+  },
+  {
+    "start": {"word": "interview people", "transform": "采访他人"},
+    "end": {"word": "questionnaire", "transform": "问卷调查"}
+  },
+  {
+    "start": {"word": "interview people", "transform": "采访他人"},
+    "end": {"word": "questionnaire", "transform": "问卷调查"}
+  },
+  {
+    "start": {"word": "maximum", "transform": "最大极限的"},
+    "end": {"word": "up to", "transform": "最多达到"}
+  },
+  {
+    "start": {"word": "delay", "transform": "延迟"},
+    "end": {"word": "take them longer than they think", "transform": "比他们预期花费时间更多"}
+  },
+  {
+    "start": {"word": "outskirts", "transform": "郊区"},
+    "end": {"word": "suburb", "transform": "郊区"}
   }
 ]
