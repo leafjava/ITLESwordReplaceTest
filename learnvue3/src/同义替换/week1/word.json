@@ -1,0 +1,102 @@
+[
+  {
+    "start": {"word": "babyish", "transform": "稚气"},
+    "end": {"word": "easy", "transform": "简单"}
+  },
+  {
+    "start": {"word": "stop", "transform": "停止"},
+    "end": {"word": "pull out", "transform": "拉住"}
+  },
+  {
+    "start": {"word": "confidentially", "transform": "机密"},
+    "end": {"word": "no names would be traceable", "transform": "没有名字可以被追踪到"}
+  },
+  {
+    "start": {"word": "sufficiently challenged", "transform": "有足够的挑战性"},
+    "end": {"word": "stretches us enough", "transform": "超越极限"}
+  },
+  {
+    "start": {"word": "officials", "transform": "官员"},
+    "end": {"word": "mayor and other dignitaries of town", "transform": "市长要员"}
+  },
+  {
+    "start": {"word": "increase", "transform": "增加"},
+    "end": {"word": "gain", "transform": "增长"}
+  },
+  {
+    "start": {"word": "at first", "transform": "最初"},
+    "end": {"word": "initially", "transform": "最初"}
+  },
+  {
+    "start": {"word": "number", "transform": "数量"},
+    "end": {"word": "amount", "transform": "数量"}
+  },
+  {
+    "start": {"word": "benefit", "transform": "益处"},
+    "end": {"word": "good things", "transform": "好处"}
+  },
+  {
+    "start": {"word": "accommodation", "transform": "住处"},
+    "end": {"word": "stay", "transform": "停留"}
+  },
+  {
+    "start": {"word": "stop", "transform": "停止"},
+    "end": {"word": "take a break", "transform": "休息"}
+  },
+  {
+    "start": {"word": "all", "transform": "所有人"},
+    "end": {"word": "everyone", "transform": "每个人"}
+  },
+  {
+    "start": {"word": "go to", "transform": "去······"},
+    "end": {"word": "spend time in", "transform": "花时间"}
+  },
+  {
+    "start": {"word": "participant", "transform": "参与者"},
+    "end": {"word": "take part in", "transform": "参与"}
+  },
+  {
+    "start": {"word": "comprehensive understanding of", "transform": "全面的了解"},
+    "end": {"word": "know the full story of", "transform": "全面了解"}
+  },
+  {
+    "start": {"word": "introduction", "transform": "引入"},
+    "end": {"word": "be brought in", "transform": "被······引进"}
+  },
+  {
+    "start": {"word": "contain", "transform": "包含"},
+    "end": {"word": "full of", "transform": "充满"}
+  },
+  {
+    "start": {"word": "tricky", "transform": "棘手的"},
+    "end": {"word": "challenging", "transform": "有挑战性的"}
+  },
+  {
+    "start": {"word": "contain", "transform": "包含"},
+    "end": {"word": "full of", "transform": "充满"}
+  },
+  {
+    "start": {"word": "bad weather", "transform": "坏天气"},
+    "end": {"word": "snowy or windy", "transform": "下雪或刮风"}
+  },
+  {
+    "start": {"word": "change", "transform": "改变"},
+    "end": {"word": "development", "transform": "发展"}
+  },
+  {
+    "start": {"word": "widespread", "transform": "广泛的"},
+    "end": {"word": "universal", "transform": "普遍的"}
+  },
+  {
+    "start": {"word": "use", "transform": "使用"},
+    "end": {"word": "adopt", "transform": "采用"}
+  },
+  {
+    "start": {"word": "order", "transform": "要求"},
+    "end": {"word": "demand", "transform": "要求"}
+  },
+  {
+    "start": {"word": "play an important part in", "transform": "发挥重要作用"},
+    "end": {"word": "have an enormous impact on", "transform": "产生巨大影响"}
+  }
+]
