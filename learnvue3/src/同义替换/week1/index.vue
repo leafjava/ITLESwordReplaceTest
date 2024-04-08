@@ -308,6 +308,9 @@ export default {
             array.push(item)
           }
         })
+
+        
+
         showLine.value = array
 
         console.log('247',showLine.value)
@@ -335,6 +338,24 @@ export default {
             array.push(item)
           }
         })
+
+        if(showLine.value.includes((currentIndexStart.value + 1)*10 + newValue + 1)){ //重复选择线条视为取消选择
+          console.log('315true',showLine.value)
+          console.log('316true',(newValue+1)*10 + currentIndexEnd.value + 1)
+          console.log(345,showLine.value.indexOf((currentIndexStart.value + 1)*10 + newValue + 1))
+          let index = showLine.value.indexOf((currentIndexStart.value + 1)*10 + newValue + 1)
+          
+          showLine.value.splice(index,1)
+
+          currentIndexStart.value = 100 //重置first和end的值
+          currentIndexEnd.value = 100
+          return
+        } else {
+          console.log('315',showLine.value)
+          console.log('316',(newValue+1)*10 + currentIndexEnd.value + 1)
+        }
+
+
         showLine.value = array
 
         console.log('271',showLine.value)
