@@ -1,0 +1,63 @@
+[
+  {
+    "start": {"word": "work out", "transform": "制定"},
+    "end": {"word": "plan", "transform": "安排"}
+  },{
+    "start": {"word": "conservation", "transform": "保护"},
+    "end": {"word": "protect", "transform": "保护"}
+  },{
+    "start": {"word": "feed on", "transform": "以······为食"},
+    "end": {"word": "prey on", "transform": "捕食"}
+  },{
+    "start": {"word": "collaborate", "transform": "合作"},
+    "end": {"word": "cooperative", "transform": "合作的"}
+  },{
+    "start": {"word": "purchaser", "transform": "买家"},
+    "end": {"word": "buyer", "transform": "买家"}
+  },{
+    "start": {"word": "prospective", "transform": "未来的"},
+    "end": {"word": "will become", "transform": "将来会成为"}
+  },{
+    "start": {"word": "subject", "transform": "对象"},
+    "end": {"word": "participant", "transform": "参与者"}
+  },{
+    "start": {"word": "precise", "transform": "精确的"},
+    "end": {"word": "exact", "transform": "准确的"}
+  },{
+    "start": {"word": "be associated with", "transform": "与······相关"},
+    "end": {"word": "be linked with", "transform": "与······相关"}
+  },{
+    "start": {"word": "prior to", "transform": "在······之前"},
+    "end": {"word": "before", "transform": "在······之前"}
+  },{
+    "start": {"word": "anticipation", "transform": "期望"},
+    "end": {"word": "expectation", "transform": "期望"}
+  },{
+    "start": {"word": "cause", "transform": "造成"},
+    "end": {"word": "arise from/out of", "transform": "由······引起"}
+  },{
+    "start": {"word": "feeling", "transform": "感觉"},
+    "end": {"word": "sense", "transform": "感觉"}
+  },{
+    "start": {"word": "exchange", "transform": "交流"},
+    "end": {"word": "share", "transform": "分享"}
+  },{
+    "start": {"word": "be keen on", "transform": "热爱"},
+    "end": {"word": "enthusiasm", "transform": "热情"}
+  },{
+    "start": {"word": "image", "transform": "图片"},
+    "end": {"word": "picture", "transform": "图片"}
+  },{
+    "start": {"word": "superior", "transform": "更好的"},
+    "end": {"word": "better", "transform": "更好的"}
+  },{
+    "start": {"word": "juvenile", "transform": "年轻的"},
+    "end": {"word": "young", "transform": "年轻的"}
+  },{
+    "start": {"word": "not native to", "transform": "非本地的"},
+    "end": {"word": "alien to", "transform": "外来的"}
+  },{
+    "start": {"word": "expansion", "transform": "增长"},
+    "end": {"word": "growth", "transform": "增长"}
+  }
+]
