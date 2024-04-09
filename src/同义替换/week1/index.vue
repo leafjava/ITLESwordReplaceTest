@@ -169,7 +169,7 @@
 </template>
 <script>
 import {ref,computed,onMounted,watch} from "vue"
-import word from './day1阅读同义替换.json';
+import word from './day5阅读同义替换Lesson2.json';
 
 export default {
   components:{
