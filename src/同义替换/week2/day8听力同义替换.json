@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "consumption", "transform": "消耗"},
+    "end": {"word": "drink", "transform": "喝"}
+  },{
+    "start": {"word": "establish", "transform": "建立"},
+    "end": {"word": "set up", "transform": "建立"}
+  },{
+    "start": {"word": "cultivation", "transform": "种植"},
+    "end": {"word": "grow", "transform": "种植"}
+  },{
+    "start": {"word": "almost", "transform": "几乎"},
+    "end": {"word": "nearly", "transform": "几乎"}
+  },{
+    "start": {"word": "drop", "transform": "掉落"},
+    "end": {"word": "fall", "transform": "落下"}
+  },{
+    "start": {"word": "not dependenton season", "transform": "不受季节限制"},
+    "end": {"word": "at any time of the year", "transform": "一年中任何时候"}
+  },{
+    "start": {"word": "rush hour", "transform": "高峰时段"},
+    "end": {"word": "peak hour", "transform": "高峰时段"}
+  },{
+    "start": {"word": "recommend", "transform": "推荐"},
+    "end": {"word": "advice", "transform": "建议"}
+  },{
+    "start": {"word": "advantages", "transform": "优点"},
+    "end": {"word": "good aspects", "transform": "好的方面"}
+  },{
+    "start": {"word": "enjoyable", "transform": "令人愉快的"},
+    "end": {"word": "fun", "transform": "有趣的"}
+  },{
+    "start": {"word": "less chance of", "transform": "几率小"},
+    "end": {"word": "low risk", "transform": "风险低"}
+  },{
+    "start": {"word": "injury", "transform": "受伤"},
+    "end": {"word": "hurt", "transform": "受伤"}
+  },{
+    "start": {"word": "motivate sb.to do", "transform": "激励某人做某事"},
+    "end": {"word": "encourage sb.to do", "transform": "鼓励某人做某事"}
+  },{
+    "start": {"word": "efforts", "transform": "努力"},
+    "end": {"word": "hard work", "transform": "辛勤工作"}
+  },{
+    "start": {"word": "achievable", "transform": "可实现的"},
+    "end": {"word": "manageable", "transform": "能应付的"}
+  },{
+    "start": {"word": "give up", "transform": "放弃"},
+    "end": {"word": "lose interest in", "transform": "失去兴趣"}
+  },{
+    "start": {"word": "aim", "transform": "目标"},
+    "end": {"word": "goal", "transform": "目标"}
+  },{
+    "start": {"word": "a range of", "transform": "一系列的"},
+    "end": {"word": "various types of", "transform": "各种类型的"}
+  },{
+    "start": {"word": "poisonous", "transform": "有毒的"},
+    "end": {"word": "extremely dangerous", "transform": "极其危险的"}
+  },{
+    "start": {"word": "expensive", "transform": "昂贵的"},
+    "end": {"word": "cost a fortune", "transform": "花一大笔钱"}
+  },{
+    "start": {"word": "be occupied in", "transform": "忙于"},
+    "end": {"word": "spend a substantial amount of time in", "transform": "花费大量时间"}
+  },{
+    "start": {"word": "concession", "transform": "减价"},
+    "end": {"word": "discount", "transform": "折扣"}
+  },{
+    "start": {"word": "disagreement", "transform": "分歧"},
+    "end": {"word": "dispute", "transform": "争论"}
+  },{
+    "start": {"word": "guard", "transform": "守卫"},
+    "end": {"word": "protect", "transform": "保护"}
+  },{
+    "start": {"word": "permanent", "transform": "永恒的"},
+    "end": {"word": "forever", "transform": "永远地"}
+  }
+]
