@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "educate", "transform": "教导"},
+    "end": {"word": "teach", "transform": "教导"}
+  },{
+    "start": {"word": "reply", "transform": "回复"},
+    "end": {"word": "respond", "transform": "回复"}
+  },{
+    "start": {"word": "overseas", "transform": "海外的"},
+    "end": {"word": "abroad", "transform": "海外地"}
+  },{
+    "start": {"word": "perceive", "transform": "察觉到"},
+    "end": {"word": "recognize", "transform": "察觉到"}
+  },{
+    "start": {"word": "wound", "transform": "伤害"},
+    "end": {"word": "injure", "transform": "伤害"}
+  },{
+    "start": {"word": "micro", "transform": "微小的"},
+    "end": {"word": "tiny", "transform": "微小的"}
+  },{
+    "start": {"word": "witness", "transform": "看见"},
+    "end": {"word": "see", "transform": "看见"}
+  },{
+    "start": {"word": "enroll in a school", "transform": "入学"},
+    "end": {"word": "attend a school", "transform": "上学"}
+  },{
+    "start": {"word": "consult", "transform": "咨询"},
+    "end": {"word": "ask advice", "transform": "征求意见"}
+  },{
+    "start": {"word": "dense", "transform": "浓密的"},
+    "end": {"word": "thick", "transform": "浓重的"}
+  },{
+    "start": {"word": "resemble", "transform": "像"},
+    "end": {"word": "be similar to", "transform": "相似的"}
+  },{
+    "start": {"word": "accelerate", "transform": "加速"},
+    "end": {"word": "speed up", "transform": "加速"}
+  },{
+    "start": {"word": "appropriate", "transform": "合适的"},
+    "end": {"word": "suitable", "transform": "合适的"}
+  },{
+    "start": {"word": "modify", "transform": "改变"},
+    "end": {"word": "change", "transform": "改变"}
+  },{
+    "start": {"word": "determine", "transform": "决定"},
+    "end": {"word": "decide", "transform": "决定"}
+  },{
+    "start": {"word": "hypothesis", "transform": "假设"},
+    "end": {"word": "theory", "transform": "理论"}
+  },{
+    "start": {"word": "embrace", "transform": "接受"},
+    "end": {"word": "accept", "transform": "接受"}
+  },{
+    "start": {"word": "novel", "transform": "新颖的"},
+    "end": {"word": "new", "transform": "新的"}
+  },{
+    "start": {"word": "phobia", "transform": "恐惧"},
+    "end": {"word": "fear", "transform": "害怕"}
+  },{
+    "start": {"word": "inhibit", "transform": "阻碍"},
+    "end": {"word": "prevent", "transform": "阻止"}
+  },{
+    "start": {"word": "given", "transform": "考虑到"},
+    "end": {"word": "considering", "transform": "考虑到"}
+  },{
+    "start": {"word": "misconception", "transform": "误解"},
+    "end": {"word": "mistaken view", "transform": "错误观点"}
+  },{
+    "start": {"word": "rudimentary", "transform": "基础的"},
+    "end": {"word": "basic", "transform": "基础的"}
+  },{
+    "start": {"word": "outstanding", "transform": "杰出的"},
+    "end": {"word": "exceptional", "transform": "杰出的"}
+  },{
+    "start": {"word": "comprehend", "transform": "理解"},
+    "end": {"word": "understand", "transform": "理解"}
+  }
+]
