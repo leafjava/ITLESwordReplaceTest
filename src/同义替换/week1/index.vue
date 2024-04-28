@@ -171,8 +171,8 @@
 import {ref,computed,onMounted,watch} from "vue"
 // import word from '../week2/day8听力同义替换.json';
 // import word from '../week2/day9同义替换.json';
-// import word from '../week2/day11阅读同义替换.json';
-import word from '../week2/day13阅读同义替换.json';
+import word from '../week2/day11阅读同义替换.json';
+// import word from '../week2/day13阅读同义替换.json';
 
 export default {
   components:{
