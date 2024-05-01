@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "world", "transform": "全世界"},
+    "end": {"word": "global", "transform": "全球的"}
+  },{
+    "start": {"word": "link", "transform": "联系"},
+    "end": {"word": "connection", "transform": "联系"}
+  },{
+    "start": {"word": "habitat", "transform": "栖息地"},
+    "end": {"word": "place to live", "transform": "居住的地方"}
+  },{
+    "start": {"word": "track", "transform": "追踪"},
+    "end": {"word": "follow", "transform": "跟随"}
+  },{
+    "start": {"word": "surroundings", "transform": "环境"},
+    "end": {"word": "environment", "transform": "环境"}
+  },{
+    "start": {"word": "harbour", "transform": "怀有"},
+    "end": {"word": "hold", "transform": "怀有"}
+  },{
+    "start": {"word": "inactive", "transform": "无活动的"},
+    "end": {"word": "quiet", "transform": "安静的"}
+  },{
+    "start": {"word": "genius", "transform": "天才"},
+    "end": {"word": "gifted", "transform": "有天赋的"}
+  },{
+    "start": {"word": "date from", "transform": "追溯到"},
+    "end": {"word": "begin", "transform": "开始"}
+  },{
+    "start": {"word": "thanks to", "transform": "由于"},
+    "end": {"word": "because", "transform": "因为"}
+  },{
+    "start": {"word": "swift", "transform": "迅速的"},
+    "end": {"word": "quick", "transform": "迅速的"}
+  },{
+    "start": {"word": "guarantee", "transform": "保证"},
+    "end": {"word": "ensure", "transform": "保证"}
+  },{
+    "start": {"word": "burglary", "transform": "盗窃"},
+    "end": {"word": "theft", "transform": "偷窃"}
+  },{
+    "start": {"word": "aggressive", "transform": "侵略的"},
+    "end": {"word": "attack", "transform": "攻击"}
+  },{
+    "start": {"word": "infant", "transform": "婴儿"},
+    "end": {"word": "baby", "transform": "婴儿"}
+  },{
+    "start": {"word": "marine", "transform": "海洋的"},
+    "end": {"word": "sea", "transform": "海洋"}
+  },{
+    "start": {"word": "discover", "transform": "发现"},
+    "end": {"word": "realise", "transform": "认识到"}
+  },{
+    "start": {"word": "charge", "transform": "费用"},
+    "end": {"word": "fee", "transform": "费用"}
+  },{
+    "start": {"word": "signify", "transform": "表示"},
+    "end": {"word": "suggest", "transform": "暗示"}
+  },{
+    "start": {"word": "obtain", "transform": "获得"},
+    "end": {"word": "gain", "transform": "获得"}
+  },{
+    "start": {"word": "ventilation", "transform": "通风"},
+    "end": {"word": "circulation of air", "transform": "空气流通"}
+  },{
+    "start": {"word": "the prosperous", "transform": "富人"},
+    "end": {"word": "the rich", "transform": "富人"}
+  },{
+    "start": {"word": "daunting", "transform": "令人生畏的"},
+    "end": {"word": "challenging", "transform": "有挑战性的"}
+  },{
+    "start": {"word": "oblivious", "transform": "未察觉的"},
+    "end": {"word": "ignorant", "transform": "不了解的"}
+  },{
+    "start": {"word": "promptly", "transform": "迅速地"},
+    "end": {"word": "instantly", "transform": "立即地"}
+  }
+]

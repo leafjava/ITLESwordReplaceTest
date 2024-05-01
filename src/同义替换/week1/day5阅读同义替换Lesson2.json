@@ -1,0 +1,63 @@
+[
+  {
+    "start": {"word": "malaria", "transform": "疟疾"},
+    "end": {"word": "illness", "transform": "疾病"}
+  },{
+    "start": {"word": "due to", "transform": "由于"},
+    "end": {"word": "because of", "transform": "因为"}
+  },{
+    "start": {"word": "classifications", "transform": "分类"},
+    "end": {"word": "categories", "transform": "种类"}
+  },{
+    "start": {"word": "hybrid", "transform": "混合"},
+    "end": {"word": "mixture", "transform": "混合物"}
+  },{
+    "start": {"word": "on board", "transform": "在船上"},
+    "end": {"word": "on the ship", "transform": "在船上"}
+  },{
+    "start": {"word": "aid", "transform": "帮助"},
+    "end": {"word": "support", "transform": "支持"}
+  },{
+    "start": {"word": "products", "transform": "产品"},
+    "end": {"word": "goods", "transform": "商品"}
+  },{
+    "start": {"word": "better", "transform": "改善"},
+    "end": {"word": "improve", "transform": "提高"}
+  },{
+    "start": {"word": "global", "transform": "全球的"},
+    "end": {"word": "international", "transform": "国际的"}
+  },{
+    "start": {"word": "mitigate", "transform": "减轻"},
+    "end": {"word": "reduce", "transform": "减少"}
+  },{
+    "start": {"word": "subsidy", "transform": "补贴"},
+    "end": {"word": "financial assistance", "transform": "经济援助"}
+  },{
+    "start": {"word": "varied", "transform": "多样的"},
+    "end": {"word": "different", "transform": "不同的"}
+  },{
+    "start": {"word": "at a disadvantage", "transform": "处于劣势"},
+    "end": {"word": "unable to do well", "transform": "无法做好"}
+  },{
+    "start": {"word": "come across", "transform": "碰到"},
+    "end": {"word": "meet", "transform": "遇见"}
+  },{
+    "start": {"word": "financial input", "transform": "财务投入"},
+    "end": {"word": "invest", "transform": "投资"}
+  },{
+    "start": {"word": "participate in", "transform": "参加"},
+    "end": {"word": "take part in", "transform": "参加"}
+  },{
+    "start": {"word": "place emphasis on", "transform": "把重点放在"},
+    "end": {"word": "concentrate on", "transform": "专注于"}
+  },{
+    "start": {"word": "criterion", "transform": "标准"},
+    "end": {"word": "standard", "transform": "标准"}
+  },{
+    "start": {"word": "generate", "transform": "产生"},
+    "end": {"word": "produce", "transform": "生产"}
+  },{
+    "start": {"word": "submit", "transform": "提交"},
+    "end": {"word": "send", "transform": "发送"}
+  }
+]

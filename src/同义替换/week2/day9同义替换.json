@@ -1,0 +1,63 @@
+[
+  {
+    "start": {"word": "condemn", "transform": "指责"},
+    "end": {"word": "criticize", "transform": "批评"}
+  },{
+    "start": {"word": "rely on", "transform": "依靠"},
+    "end": {"word": "depend on", "transform": "依靠"}
+  },{
+    "start": {"word": "outraged", "transform": "愤怒的"},
+    "end": {"word": "angry", "transform": "生气的"}
+  },{
+    "start": {"word": "entirely", "transform": "完全地"},
+    "end": {"word": "completely", "transform": "完全地"}
+  },{
+    "start": {"word": "vague", "transform": "模糊的"},
+    "end": {"word": "notdetailed", "transform": "不详细的"}
+  },{
+    "start": {"word": "indicate", "transform": "表明"},
+    "end": {"word": "show", "transform": "表明"}
+  },{
+    "start": {"word": "treatment", "transform": "治疗"},
+    "end": {"word": "cure", "transform": "疗法"}
+  },{
+    "start": {"word": "via", "transform": "通过"},
+    "end": {"word": "through", "transform": "通过"}
+  },{
+    "start": {"word": "cultivate", "transform": "种植"},
+    "end": {"word": "plant", "transform": "种植"}
+  },{
+    "start": {"word": "jealousy", "transform": "嫉妒"},
+    "end": {"word": "envy", "transform": "嫉妒"}
+  },{
+    "start": {"word": "ailment", "transform": "轻病"},
+    "end": {"word": "illness", "transform": "疾病"}
+  },{
+    "start": {"word": "spot", "transform": "发现"},
+    "end": {"word": "identify", "transform": "认出"}
+  },{
+    "start": {"word": "recognize", "transform": "意识到"},
+    "end": {"word": "is aware of", "transform": "意识到"}
+  },{
+    "start": {"word": "significant", "transform": "重要的"},
+    "end": {"word": "important", "transform": "重要的"}
+  },{
+    "start": {"word": "team up with", "transform": "合作"},
+    "end": {"word": "collaborate with", "transform": "合作"}
+  },{
+    "start": {"word": "manufacturer", "transform": "生产商"},
+    "end": {"word": "company", "transform": "公司"}
+  },{
+    "start": {"word": "tough", "transform": "困难的"},
+    "end": {"word": "difficult", "transform": "困难的"}
+  },{
+    "start": {"word": "expand", "transform": "扩张"},
+    "end": {"word": "widen", "transform": "拓宽"}
+  },{
+    "start": {"word": "relevant", "transform": "相关的"},
+    "end": {"word": "related", "transform": "相关的"}
+  },{
+    "start": {"word": "transport", "transform": "运输"},
+    "end": {"word": "move", "transform": "移动"}
+  }
+]
