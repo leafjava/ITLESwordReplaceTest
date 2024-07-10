@@ -1,0 +1,123 @@
+[
+  {
+    "start": {"word": "diving", "transform": ""},
+    "end": {"word": "潜水", "transform": ""}
+  },{
+    "start": {"word": "sun shield", "transform": ""},
+    "end": {"word": "遮阳板", "transform": ""}
+  },{
+    "start": {"word": "rubber", "transform": ""},
+    "end": {"word": "橡皮", "transform": ""}
+  },{
+    "start": {"word": "sleeping bag", "transform": ""},
+    "end": {"word": "睡袋", "transform": ""}
+  },{
+    "start": {"word": "video camera", "transform": ""},
+    "end": {"word": "摄影机", "transform": ""}
+  },{
+    "start": {"word": "amusement park", "transform": ""},
+    "end": {"word": "游乐园", "transform": ""}
+  },{
+    "start": {"word": "skating board", "transform": ""},
+    "end": {"word": "滑板", "transform": ""}
+  },{
+    "start": {"word": "coach", "transform": ""},
+    "end": {"word": "教练", "transform": ""}
+  },{
+    "start": {"word": "baseball", "transform": ""},
+    "end": {"word": "棒球", "transform": ""}
+  },{
+    "start": {"word": "entertainment", "transform": ""},
+    "end": {"word": "娱乐", "transform": ""}
+  },{
+    "start": {"word": "towel", "transform": ""},
+    "end": {"word": "毛巾", "transform": ""}
+  },{
+    "start": {"word": "barbecue", "transform": ""},
+    "end": {"word": "烧烤", "transform": ""}
+  },{
+    "start": {"word": "camel", "transform": ""},
+    "end": {"word": "骆驼", "transform": ""}
+  },{
+    "start": {"word": "canoe", "transform": ""},
+    "end": {"word": "划艇", "transform": ""}
+  },{
+    "start": {"word": "bowling", "transform": ""},
+    "end": {"word": "保龄球", "transform": ""}
+  },{
+    "start": {"word": "wheelchair", "transform": ""},
+    "end": {"word": "轮椅", "transform": ""}
+  },{
+    "start": {"word": "badminton", "transform": ""},
+    "end": {"word": "羽毛球", "transform": ""}
+  },{
+    "start": {"word": "raincoat", "transform": ""},
+    "end": {"word": "雨衣", "transform": ""}
+  },{
+    "start": {"word": "castle", "transform": ""},
+    "end": {"word": "城堡", "transform": ""}
+  },{
+    "start": {"word": "talk show", "transform": ""},
+    "end": {"word": "脱口秀", "transform": ""}
+  },{
+    "start": {"word": "rowing", "transform": ""},
+    "end": {"word": "划船", "transform": ""}
+  },{
+    "start": {"word": "paddling pool", "transform": ""},
+    "end": {"word": "嬉水池", "transform": ""}
+  },{
+    "start": {"word": "windmill", "transform": ""},
+    "end": {"word": "风车", "transform": ""}
+  },{
+    "start": {"word": "outdoor activities", "transform": ""},
+    "end": {"word": "户外活动", "transform": ""}
+  },{
+    "start": {"word": "tennis", "transform": ""},
+    "end": {"word": "网球", "transform": ""}
+  },{
+    "start": {"word": "soccer", "transform": ""},
+    "end": {"word": "足球", "transform": ""}
+  },{
+    "start": {"word": "socks", "transform": ""},
+    "end": {"word": "袜子", "transform": ""}
+  },{
+    "start": {"word": "cliff", "transform": ""},
+    "end": {"word": "悬崖", "transform": ""}
+  },{
+    "start": {"word": "comedy", "transform": ""},
+    "end": {"word": "喜剧", "transform": ""}
+  },{
+    "start": {"word": "hiking", "transform": ""},
+    "end": {"word": "远足", "transform": ""}
+  },{
+    "start": {"word": "art gallery", "transform": ""},
+    "end": {"word": "美术馆", "transform": ""}
+  },{
+    "start": {"word": "comics", "transform": ""},
+    "end": {"word": "漫画", "transform": ""}
+  },{
+    "start": {"word": "battery", "transform": ""},
+    "end": {"word": "电池", "transform": ""}
+  },{
+    "start": {"word": "documentary", "transform": ""},
+    "end": {"word": "纪录片", "transform": ""}
+  },{
+    "start": {"word": "sunglasses", "transform": ""},
+    "end": {"word": "太阳镜", "transform": ""}
+  },{
+    "start": {"word": "campsite", "transform": ""},
+    "end": {"word": "营地", "transform": ""}
+  },{
+    "start": {"word": "tent", "transform": ""},
+    "end": {"word": "帐篷", "transform": ""}
+  },{
+    "start": {"word": "alarm clock", "transform": ""},
+    "end": {"word": "闹钟", "transform": ""}
+  },{
+    "start": {"word": "soft drink", "transform": ""},
+    "end": {"word": "软饮料", "transform": ""}
+  },{
+    "start": {"word": "poster", "transform": ""},
+    "end": {"word": "海报", "transform": ""}
+  }
+]

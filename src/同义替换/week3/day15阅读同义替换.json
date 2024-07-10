@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "originally", "transform": "起初"},
+    "end": {"word": "at first", "transform": "起初"}
+  },{
+    "start": {"word": "pollutant", "transform": "污染物"},
+    "end": {"word": "waste", "transform": "废弃物"}
+  },{
+    "start": {"word": "evenly", "transform": "均等地"},
+    "end": {"word": "equally", "transform": "平均地"}
+  },{
+    "start": {"word": "rare", "transform": "罕见的"},
+    "end": {"word": "unusual", "transform": "罕见的"}
+  },{
+    "start": {"word": "referred to as", "transform": "被称为"},
+    "end": {"word": "known as", "transform": "被称为"}
+  },{
+    "start": {"word": "assess", "transform": "评估"},
+    "end": {"word": "judge", "transform": "评判"}
+  },{
+    "start": {"word": "phase", "transform": "阶段"},
+    "end": {"word": "stage", "transform": "阶段"}
+  },{
+    "start": {"word": "domestic", "transform": "国内的"},
+    "end": {"word": "local", "transform": "本地的"}
+  },{
+    "start": {"word": "efficiently", "transform": "高效地"},
+    "end": {"word": "with no waste of time", "transform": "没有浪费时间"}
+  },{
+    "start": {"word": "worth", "transform": "价值"},
+    "end": {"word": "value", "transform": "价值"}
+  },{
+    "start": {"word": "a handful of", "transform": "少量的"},
+    "end": {"word": "a few", "transform": "一些"}
+  },{
+    "start": {"word": "abandon", "transform": "放弃"},
+    "end": {"word": "give up", "transform": "放弃"}
+  },{
+    "start": {"word": "fresh produce", "transform": "新鲜农产品"},
+    "end": {"word": "fresh food", "transform": "新鲜食品"}
+  },{
+    "start": {"word": "despite", "transform": "尽管"},
+    "end": {"word": "although", "transform": "尽管"}
+  },{
+    "start": {"word": "rate", "transform": "速率"},
+    "end": {"word": "speed", "transform": "速度"}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  },{
+    "start": {"word": "", "transform": ""},
+    "end": {"word": "", "transform": ""}
+  }
+]

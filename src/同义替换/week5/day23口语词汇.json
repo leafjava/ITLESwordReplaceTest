@@ -1,0 +1,42 @@
+[
+  {
+    "start": {"word": "action film", "transform": ""},
+    "end": {"word": "动作片", "transform": ""}
+  },{
+    "start": {"word": "comedy", "transform": ""},
+    "end": {"word": "喜剧", "transform": ""}
+  },{
+    "start": {"word": "romance", "transform": ""},
+    "end": {"word": "爱情片", "transform": ""}
+  },{
+    "start": {"word": "documentary", "transform": ""},
+    "end": {"word": "纪录片", "transform": ""}
+  },{
+    "start": {"word": "musical", "transform": ""},
+    "end": {"word": "音乐片", "transform": ""}
+  },{
+    "start": {"word": "science fiction film/sci-fi film", "transform": ""},
+    "end": {"word": "科幻片", "transform": ""}
+  },{
+    "start": {"word": "thriller", "transform": ""},
+    "end": {"word": "惊悚片", "transform": ""}
+  },{
+    "start": {"word": "animation", "transform": ""},
+    "end": {"word": "动画片", "transform": ""}
+  },{
+    "start": {"word": "gives me a glimpse into their culture", "transform": ""},
+    "end": {"word": "让我一瞥他们的文化", "transform": ""}
+  },{
+    "start": {"word": "expand my knowledge and horizon", "transform": ""},
+    "end": {"word": "拓展我的知识和视野", "transform": ""}
+  },{
+    "start": {"word": "thought-provoking", "transform": ""},
+    "end": {"word": "发人深省的", "transform": ""}
+  },{
+    "start": {"word": "bond with sb. (family/friends ...)", "transform": ""},
+    "end": {"word": "加强与某人的关系，和谁一起看电影或电视节目可以用到", "transform": ""}
+  },{
+    "start": {"word": "deliver an important message about ...", "transform": ""},
+    "end": {"word": "就……·传达一则重要的信息", "transform": ""}
+  }
+]

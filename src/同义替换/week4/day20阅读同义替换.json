@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "job", "transform": "工作"},
+    "end": {"word": "occupation", "transform": "工作"}
+  },{
+    "start": {"word": "authority", "transform": "官方机构"},
+    "end": {"word": "government", "transform": "政府"}
+  },{
+    "start": {"word": "disseminate", "transform": "传播"},
+    "end": {"word": "spread", "transform": "传播"}
+  },{
+    "start": {"word": "evaluation", "transform": "评估"},
+    "end": {"word": "assess", "transform": "评估"}
+  },{
+    "start": {"word": "obvious", "transform": "明显的"},
+    "end": {"word": "noticeable", "transform": "明显的"}
+  },{
+    "start": {"word": "be accustomed to", "transform": "习惯"},
+    "end": {"word": "be used to", "transform": "习惯"}
+  },{
+    "start": {"word": "trait", "transform": "特点"},
+    "end": {"word": "characteristic", "transform": "特点"}
+  },{
+    "start": {"word": "unforeseen", "transform": "无法预料的"},
+    "end": {"word": "unpredictable", "transform": "无法预料的"}
+  },{
+    "start": {"word": "overlook", "transform": "忽视"},
+    "end": {"word": "ignore", "transform": "忽视"}
+  },{
+    "start": {"word": "underlie", "transform": "以…为基础"},
+    "end": {"word": "be based on", "transform": "以……为基础"}
+  },{
+    "start": {"word": "separate", "transform": "使…分开"},
+    "end": {"word": "divide", "transform": "使…分开"}
+  },{
+    "start": {"word": "defect", "transform": "缺点"},
+    "end": {"word": "weakness", "transform": "缺点"}
+  },{
+    "start": {"word": "large", "transform": "巨大的"},
+    "end": {"word": "enormous", "transform": "巨大的"}
+  },{
+    "start": {"word": "military", "transform": "军队"},
+    "end": {"word": "army", "transform": "军队"}
+  },{
+    "start": {"word": "obstacle", "transform": "阻碍"},
+    "end": {"word": "prevent", "transform": "阻止"}
+  },{
+    "start": {"word": "shortage", "transform": "短缺"},
+    "end": {"word": "not available", "transform": "不提供"}
+  },{
+    "start": {"word": "tedious", "transform": "乏味的"},
+    "end": {"word": "boring", "transform": "乏味的"}
+  },{
+    "start": {"word": "cost", "transform": "花费"},
+    "end": {"word": "expense", "transform": "花费"}
+  },{
+    "start": {"word": "result", "transform": "结果"},
+    "end": {"word": "outcome", "transform": "结果"}
+  },{
+    "start": {"word": "gradually", "transform": "逐渐地"},
+    "end": {"word": "step by step", "transform": "逐渐地"}
+  },{
+    "start": {"word": "solicitor", "transform": "律师"},
+    "end": {"word": "lawyer", "transform": "律师"}
+  },{
+    "start": {"word": "recreation", "transform": "消遣"},
+    "end": {"word": "pastime", "transform": "消遣"}
+  },{
+    "start": {"word": "existing", "transform": "现行的"},
+    "end": {"word": "contemporary", "transform": "现代的"}
+  },{
+    "start": {"word": "comply with", "transform": "遵从"},
+    "end": {"word": "obey", "transform": "遵从"}
+  },{
+    "start": {"word": "overstate", "transform": "夸张"},
+    "end": {"word": "exaggerate", "transform": "夸张"}
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "reserve", "transform": "预定"},
+    "end": {"word": "book", "transform": "预定"}
+  },{
+    "start": {"word": "application", "transform": "应用"},
+    "end": {"word": "use", "transform": "使用"}
+  },{
+    "start": {"word": "evolve", "transform": "发展"},
+    "end": {"word": "develop", "transform": "发展"}
+  },{
+    "start": {"word": "accurate", "transform": "正确的"},
+    "end": {"word": "correct", "transform": "正确的"}
+  },{
+    "start": {"word": "calculate", "transform": "计算"},
+    "end": {"word": "measure", "transform": "测量"}
+  },{
+    "start": {"word": "term", "transform": "术语"},
+    "end": {"word": "word", "transform": "词语"}
+  },{
+    "start": {"word": "interior", "transform": "内部的"},
+    "end": {"word": "inner", "transform": "内部的"}
+  },{
+    "start": {"word": "shift", "transform": "转变"},
+    "end": {"word": "change", "transform": "转变"}
+  },{
+    "start": {"word": "regularly", "transform": "经常地"},
+    "end": {"word": "constantly", "transform": "经常地"}
+  },{
+    "start": {"word": "destroy", "transform": "毁灭"},
+    "end": {"word": "ruin", "transform": "毀灭"}
+  },{
+    "start": {"word": "dental", "transform": "牙齿的"},
+    "end": {"word": "teeth", "transform": "牙齿"}
+  },{
+    "start": {"word": "prehistoric", "transform": "古老的"},
+    "end": {"word": "ancient", "transform": "古老的"}
+  },{
+    "start": {"word": "massive", "transform": "大的"},
+    "end": {"word": "large", "transform": "大的"}
+  },{
+    "start": {"word": "deliver", "transform": "送达"},
+    "end": {"word": "send", "transform": "送达"}
+  },{
+    "start": {"word": "halt", "transform": "停止"},
+    "end": {"word": "stop", "transform": "停止"}
+  },{
+    "start": {"word": "adjust", "transform": "适应"},
+    "end": {"word": "adapt", "transform": "适应"}
+  },{
+    "start": {"word": "principal", "transform": "主要的"},
+    "end": {"word": "main", "transform": "主要的"}
+  },{
+    "start": {"word": "permit", "transform": "允许"},
+    "end": {"word": "allow", "transform": "允许"}
+  },{
+    "start": {"word": "fill in", "transform": "填写"},
+    "end": {"word": "complete", "transform": "完成"}
+  },{
+    "start": {"word": "concealed", "transform": "隐蔽的"},
+    "end": {"word": "hidden", "transform": "隐蔽的"}
+  },{
+    "start": {"word": "reluctant to accept", "transform": "拒绝接受"},
+    "end": {"word": "have avery conservative attitude", "transform": "拒绝接受"}
+  },{
+    "start": {"word": "unbiased", "transform": "公正的"},
+    "end": {"word": "objective", "transform": "客观的"}
+  },{
+    "start": {"word": "supplemented", "transform": "额外的"},
+    "end": {"word": "additional", "transform": "额外的"}
+  },{
+    "start": {"word": "derive", "transform": "获得"},
+    "end": {"word": "gain", "transform": "获得"}
+  },{
+    "start": {"word": "dwelling", "transform": "住宅"},
+    "end": {"word": "house", "transform": "住宅"}
+  }
+]

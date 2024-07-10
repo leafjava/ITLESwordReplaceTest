@@ -1,0 +1,24 @@
+[
+  {
+    "start": {"word": "artworks", "transform": ""},
+    "end": {"word": "艺术作品", "transform": ""}
+  },{
+    "start": {"word": "masterpiece", "transform": ""},
+    "end": {"word": "杰作", "transform": ""}
+  },{
+    "start": {"word": "modern art installations", "transform": ""},
+    "end": {"word": "现代艺术装置", "transform": ""}
+  },{
+    "start": {"word": "calligraphy", "transform": ""},
+    "end": {"word": "书法", "transform": ""}
+  },{
+    "start": {"word": "canvas", "transform": ""},
+    "end": {"word": "画布", "transform": ""}
+  },{
+    "start": {"word": "brush", "transform": ""},
+    "end": {"word": "画笔", "transform": ""}
+  },{
+    "start": {"word": "palette", "transform": ""},
+    "end": {"word": "调色板", "transform": ""}
+  }
+]

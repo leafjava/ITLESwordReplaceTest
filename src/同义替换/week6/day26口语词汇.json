@@ -1,0 +1,99 @@
+[
+  {
+    "start": {"word": "T-shirt", "transform": ""},
+    "end": {"word": "T恤", "transform": ""}
+  },{
+    "start": {"word": "hoodie", "transform": ""},
+    "end": {"word": "连帽衫", "transform": ""}
+  },{
+    "start": {"word": "sweater", "transform": ""},
+    "end": {"word": "毛衣", "transform": ""}
+  },{
+    "start": {"word": "shorts", "transform": ""},
+    "end": {"word": "短裤", "transform": ""}
+  },{
+    "start": {"word": "jeans", "transform": ""},
+    "end": {"word": "牛仔裤", "transform": ""}
+  },{
+    "start": {"word": "pants/trousers", "transform": ""},
+    "end": {"word": "长裤", "transform": ""}
+  },{
+    "start": {"word": "skirt", "transform": ""},
+    "end": {"word": "裙子，半身裙", "transform": ""}
+  },{
+    "start": {"word": "suit", "transform": ""},
+    "end": {"word": "西装", "transform": ""}
+  },{
+    "start": {"word": "uniform", "transform": ""},
+    "end": {"word": "制服", "transform": ""}
+  },{
+    "start": {"word": "dress code", "transform": ""},
+    "end": {"word": "着装标准", "transform": ""}
+  },{
+    "start": {"word": "formal", "transform": ""},
+    "end": {"word": "正式的", "transform": ""}
+  },{
+    "start": {"word": "casual", "transform": ""},
+    "end": {"word": "随意的", "transform": ""}
+  },{
+    "start": {"word": "trendy", "transform": ""},
+    "end": {"word": "时髦的", "transform": ""}
+  },{
+    "start": {"word": "elegant", "transform": ""},
+    "end": {"word": "优雅的", "transform": ""}
+  },{
+    "start": {"word": "waterproof", "transform": ""},
+    "end": {"word": "防水的", "transform": ""}
+  },{
+    "start": {"word": "breathable", "transform": ""},
+    "end": {"word": "透气的", "transform": ""}
+  },{
+    "start": {"word": "fashion-conscious", "transform": ""},
+    "end": {"word": "对时尚非常敏感的，时尚意识很强的", "transform": ""}
+  },{
+    "start": {"word": "a fashion victim", "transform": ""},
+    "end": {"word": "时尚的受害者，过于追求时尚的人", "transform": ""}
+  },{
+    "start": {"word": "commodity", "transform": ""},
+    "end": {"word": "商品", "transform": ""}
+  },{
+    "start": {"word": "luxury goods", "transform": ""},
+    "end": {"word": "奢侈品", "transform": ""}
+  },{
+    "start": {"word": "groceries", "transform": ""},
+    "end": {"word": "食品杂货", "transform": ""}
+  },{
+    "start": {"word": "on sale", "transform": ""},
+    "end": {"word": "促销", "transform": ""}
+  },{
+    "start": {"word": "retailer", "transform": ""},
+    "end": {"word": "零售商", "transform": ""}
+  },{
+    "start": {"word": "customer", "transform": ""},
+    "end": {"word": "顾客", "transform": ""}
+  },{
+    "start": {"word": "shopping list", "transform": ""},
+    "end": {"word": "购物清单", "transform": ""}
+  },{
+    "start": {"word": "window-shopping", "transform": ""},
+    "end": {"word": "浏览商店橱窗(无意购买)", "transform": ""}
+  },{
+    "start": {"word": "brick-and-mortar store", "transform": ""},
+    "end": {"word": "实体店", "transform": ""}
+  },{
+    "start": {"word": "online shopping", "transform": ""},
+    "end": {"word": "网上购物", "transform": ""}
+  },{
+    "start": {"word": "cashless payment", "transform": ""},
+    "end": {"word": "无现金支付", "transform": ""}
+  },{
+    "start": {"word": "free delivery", "transform": ""},
+    "end": {"word": "免费送货", "transform": ""}
+  },{
+    "start": {"word": "cost-effective", "transform": ""},
+    "end": {"word": "性价比高的", "transform": ""}
+  },{
+    "start": {"word": "prohibitive price", "transform": ""},
+    "end": {"word": "过于高昂的价格", "transform": ""}
+  }
+]

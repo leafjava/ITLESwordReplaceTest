@@ -1,0 +1,48 @@
+[
+  {
+    "start": {"word": "portrait", "transform": ""},
+    "end": {"word": "肖像画", "transform": ""}
+  },{
+    "start": {"word": "landscape", "transform": ""},
+    "end": {"word": "风景画", "transform": ""}
+  },{
+    "start": {"word": "oil painting", "transform": ""},
+    "end": {"word": "油画", "transform": ""}
+  },{
+    "start": {"word": "watercolor", "transform": ""},
+    "end": {"word": "水彩画", "transform": ""}
+  },{
+    "start": {"word": "sketch", "transform": ""},
+    "end": {"word": "素描", "transform": ""}
+  },{
+    "start": {"word": "still life", "transform": ""},
+    "end": {"word": "静物画", "transform": ""}
+  },{
+    "start": {"word": "abstract", "transform": ""},
+    "end": {"word": "抽象画", "transform": ""}
+  },{
+    "start": {"word": "doodle", "transform": ""},
+    "end": {"word": "涂鸦", "transform": ""}
+  },{
+    "start": {"word": "express my creativity", "transform": ""},
+    "end": {"word": "表达我的创造力", "transform": ""}
+  },{
+    "start": {"word": "convey emotions through colors", "transform": ""},
+    "end": {"word": "通过色彩传递情感", "transform": ""}
+  },{
+    "start": {"word": "cultivate my artistic appreciation ability", "transform": ""},
+    "end": {"word": "培养艺术鉴赏能力", "transform": ""}
+  },{
+    "start": {"word": "immerse myselfin the art world", "transform": ""},
+    "end": {"word": "沉浸在艺术世界中", "transform": ""}
+  },{
+    "start": {"word": "gain inspiration from nature", "transform": ""},
+    "end": {"word": "从自然中获取灵感", "transform": ""}
+  },{
+    "start": {"word": "capture the essence of a scene", "transform": ""},
+    "end": {"word": "捕捉场景的本质", "transform": ""}
+  },{
+    "start": {"word": "experiment with different techniques", "transform": ""},
+    "end": {"word": "尝试不同的技法", "transform": ""}
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "through", "transform": "通过"},
+    "end": {"word": "via", "transform": "通过"}
+  },{
+    "start": {"word": "tour", "transform": "旅行"},
+    "end": {"word": "trip", "transform": "旅行"}
+  },{
+    "start": {"word": "largely", "transform": "主要地"},
+    "end": {"word": "mainly", "transform": "主要地"}
+  },{
+    "start": {"word": "freezing", "transform": "寒冷的"},
+    "end": {"word": "cold", "transform": "寒冷的"}
+  },{
+    "start": {"word": "constant", "transform": "持续不断的"},
+    "end": {"word": "stable", "transform": "稳定的"}
+  },{
+    "start": {"word": "extend", "transform": "延长"},
+    "end": {"word": "prolong", "transform": "延长"}
+  },{
+    "start": {"word": "format", "transform": "格式"},
+    "end": {"word": "pattern", "transform": "模式"}
+  },{
+    "start": {"word": "minimal", "transform": "极少的"},
+    "end": {"word": "little", "transform": "少的"}
+  },{
+    "start": {"word": "elusive", "transform": "难找的"},
+    "end": {"word": "hard to find", "transform": "难找的"}
+  },{
+    "start": {"word": "emergent", "transform": "新兴的"},
+    "end": {"word": "new", "transform": "新的"}
+  },{
+    "start": {"word": "accompany", "transform": "陪伴"},
+    "end": {"word": "go with", "transform": "陪伴"}
+  },{
+    "start": {"word": "laptop", "transform": "笔记本电脑"},
+    "end": {"word": "computer", "transform": "电脑"}
+  },{
+    "start": {"word": "annual", "transform": "每年一次的"},
+    "end": {"word": "every year", "transform": "每年"}
+  },{
+    "start": {"word": "bacteria", "transform": "细菌"},
+    "end": {"word": "microbe", "transform": "微生物"}
+  },{
+    "start": {"word": "straightaway", "transform": "立刻"},
+    "end": {"word": "immediately", "transform": "立刻"}
+  },{
+    "start": {"word": "receipt", "transform": "发票"},
+    "end": {"word": "proof of purchase", "transform": "购买凭证"}
+  },{
+    "start": {"word": "manufacturer", "transform": "生产商"},
+    "end": {"word": "factory", "transform": "工厂"}
+  },{
+    "start": {"word": "recommend", "transform": "建议"},
+    "end": {"word": "advise", "transform": "建议"}
+  },{
+    "start": {"word": "breakthrough", "transform": "突破性进展"},
+    "end": {"word": "discovery", "transform": "发现"}
+  },{
+    "start": {"word": "perceive", "transform": "察觉"},
+    "end": {"word": "recognize", "transform": "认出"}
+  },{
+    "start": {"word": "obligation", "transform": "义务"},
+    "end": {"word": "responsibility", "transform": "责任"}
+  },{
+    "start": {"word": "finite", "transform": "有限的"},
+    "end": {"word": "limited", "transform": "有限的"}
+  },{
+    "start": {"word": "contribute to", "transform": "造成"},
+    "end": {"word": "cause", "transform": "造成"}
+  },{
+    "start": {"word": "mirror", "transform": "映照"},
+    "end": {"word": "reflect", "transform": "反射"}
+  },{
+    "start": {"word": "profitable", "transform": "盈利的"},
+    "end": {"word": "make money", "transform": "赚钱"}
+  }
+]

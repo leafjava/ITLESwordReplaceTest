@@ -1,0 +1,123 @@
+[
+  {
+    "start": {"word": "cassette recorder", "transform": ""},
+    "end": {"word": "盒式录音机", "transform": ""}
+  },{
+    "start": {"word": "semester", "transform": ""},
+    "end": {"word": "学期", "transform": ""}
+  },{
+    "start": {"word": "intermediate", "transform": ""},
+    "end": {"word": "中级学生", "transform": ""}
+  },{
+    "start": {"word": "diploma", "transform": ""},
+    "end": {"word": "文凭", "transform": ""}
+  },{
+    "start": {"word": "application form", "transform": ""},
+    "end": {"word": "申请表格", "transform": ""}
+  },{
+    "start": {"word": "living expenses", "transform": ""},
+    "end": {"word": "生活费", "transform": ""}
+  },{
+    "start": {"word": "major", "transform": ""},
+    "end": {"word": "专业", "transform": ""}
+  },{
+    "start": {"word": "kindergarten", "transform": ""},
+    "end": {"word": "幼儿园", "transform": ""}
+  },{
+    "start": {"word": "scholarship", "transform": ""},
+    "end": {"word": "奖学金", "transform": ""}
+  },{
+    "start": {"word": "grant", "transform": ""},
+    "end": {"word": "补助金", "transform": ""}
+  },{
+    "start": {"word": "sports facilities", "transform": ""},
+    "end": {"word": "运动器材", "transform": ""}
+  },{
+    "start": {"word": "certificate", "transform": ""},
+    "end": {"word": "证书", "transform": ""}
+  },{
+    "start": {"word": "bachelor's degree", "transform": ""},
+    "end": {"word": "学士学位", "transform": ""}
+  },{
+    "start": {"word": "tuition fees", "transform": ""},
+    "end": {"word": "学费", "transform": ""}
+  },{
+    "start": {"word": "internship", "transform": ""},
+    "end": {"word": "实习", "transform": ""}
+  },{
+    "start": {"word": "canteen", "transform": ""},
+    "end": {"word": "食堂", "transform": ""}
+  },{
+    "start": {"word": "grammar", "transform": ""},
+    "end": {"word": "语法", "transform": ""}
+  },{
+    "start": {"word": "lecture hall", "transform": ""},
+    "end": {"word": "演讲报告厅", "transform": ""}
+  },{
+    "start": {"word": "second-hand books", "transform": ""},
+    "end": {"word": "二手书", "transform": ""}
+  },{
+    "start": {"word": "psychology", "transform": ""},
+    "end": {"word": "心理学", "transform": ""}
+  },{
+    "start": {"word": "lecturer", "transform": ""},
+    "end": {"word": "讲师", "transform": ""}
+  },{
+    "start": {"word": "survey methods", "transform": ""},
+    "end": {"word": "调查方法", "transform": ""}
+  },{
+    "start": {"word": "respondent", "transform": ""},
+    "end": {"word": "答卷人", "transform": ""}
+  },{
+    "start": {"word": "footnote", "transform": ""},
+    "end": {"word": "脚注", "transform": ""}
+  },{
+    "start": {"word": "editing", "transform": ""},
+    "end": {"word": "编辑", "transform": ""}
+  },{
+    "start": {"word": "data", "transform": ""},
+    "end": {"word": "数据", "transform": ""}
+  },{
+    "start": {"word": "abstract", "transform": ""},
+    "end": {"word": "摘要", "transform": ""}
+  },{
+    "start": {"word": "database", "transform": ""},
+    "end": {"word": "数据库", "transform": ""}
+  },{
+    "start": {"word": "note", "transform": ""},
+    "end": {"word": "笔记", "transform": ""}
+  },{
+    "start": {"word": "preparation", "transform": ""},
+    "end": {"word": "准备", "transform": ""}
+  },{
+    "start": {"word": "sample", "transform": ""},
+    "end": {"word": "样本", "transform": ""}
+  },{
+    "start": {"word": "summary", "transform": ""},
+    "end": {"word": "总结", "transform": ""}
+  },{
+    "start": {"word": "research diary", "transform": ""},
+    "end": {"word": "观察日志", "transform": ""}
+  },{
+    "start": {"word": "final draft", "transform": ""},
+    "end": {"word": "最终稿", "transform": ""}
+  },{
+    "start": {"word": "visual aids", "transform": ""},
+    "end": {"word": "视觉教具", "transform": ""}
+  },{
+    "start": {"word": "facilities", "transform": ""},
+    "end": {"word": "设施", "transform": ""}
+  },{
+    "start": {"word": "laboratory", "transform": ""},
+    "end": {"word": "实验室", "transform": ""}
+  },{
+    "start": {"word": "statistics", "transform": ""},
+    "end": {"word": "统计学", "transform": ""}
+  },{
+    "start": {"word": "summarization", "transform": ""},
+    "end": {"word": "概要", "transform": ""}
+  },{
+    "start": {"word": "fieldwork", "transform": ""},
+    "end": {"word": "田野调查", "transform": ""}
+  }
+]

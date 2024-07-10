@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "vicinity", "transform": "附近"},
+    "end": {"word": "neighborhood", "transform": "附近"}
+  },{
+    "start": {"word": "incentive", "transform": "激励"},
+    "end": {"word": "motive", "transform": "动机"}
+  },{
+    "start": {"word": "spontaneous", "transform": "自然的"},
+    "end": {"word": "natural", "transform": "自然的"}
+  },{
+    "start": {"word": "out of the question", "transform": "不可能的"},
+    "end": {"word": "impossible", "transform": "不可能的"}
+  },{
+    "start": {"word": "immunity", "transform": "免疫力"},
+    "end": {"word": "resistance to disease", "transform": "抗病性"}
+  },{
+    "start": {"word": "as good as", "transform": "几乎"},
+    "end": {"word": "almost", "transform": "几乎"}
+  },{
+    "start": {"word": "remark", "transform": "评论"},
+    "end": {"word": "comment", "transform": "评论"}
+  },{
+    "start": {"word": "disparate", "transform": "迴然不同的"},
+    "end": {"word": "different", "transform": "不同的"}
+  },{
+    "start": {"word": "inhabit", "transform": "居住"},
+    "end": {"word": "population", "transform": "人口"}
+  },{
+    "start": {"word": "staggering", "transform": "令人震惊的"},
+    "end": {"word": "surprising", "transform": "令人惊讶的"}
+  },{
+    "start": {"word": "overcome", "transform": "克服"},
+    "end": {"word": "defeat", "transform": "击败"}
+  },{
+    "start": {"word": "detrimental", "transform": "有害的"},
+    "end": {"word": "harmful", "transform": "有害的"}
+  },{
+    "start": {"word": "elaborate", "transform": "详细的"},
+    "end": {"word": "detailed", "transform": "详细的"}
+  },{
+    "start": {"word": "limbs", "transform": "四肢"},
+    "end": {"word": "arms and legs", "transform": "胳膊和腿"}
+  },{
+    "start": {"word": "call for", "transform": "要求"},
+    "end": {"word": "demanding", "transform": "要求高的"}
+  },{
+    "start": {"word": "orientation", "transform": "方位"},
+    "end": {"word": "bearing", "transform": "方位"}
+  },{
+    "start": {"word": "hazard", "transform": "危险"},
+    "end": {"word": "danger", "transform": "危险"}
+  },{
+    "start": {"word": "grasp", "transform": "理解"},
+    "end": {"word": "understand", "transform": "理解"}
+  },{
+    "start": {"word": "rivalry", "transform": "竞争"},
+    "end": {"word": "competition", "transform": "竞争"}
+  },{
+    "start": {"word": "destitute", "transform": "穷困的"},
+    "end": {"word": "poor", "transform": "贫穷的"}
+  },{
+    "start": {"word": "catastrophic", "transform": "灾难性的"},
+    "end": {"word": "devastating", "transform": "毁灭性的"}
+  },{
+    "start": {"word": "forecast", "transform": "预测"},
+    "end": {"word": "predict", "transform": "预测"}
+  },{
+    "start": {"word": "pressing", "transform": "紧迫的"},
+    "end": {"word": "urgent", "transform": "紧急的"}
+  },{
+    "start": {"word": "substitute", "transform": "替代品"},
+    "end": {"word": "alternative", "transform": "替代品"}
+  },{
+    "start": {"word": "fail", "transform": "辜负"},
+    "end": {"word": "disappoint", "transform": "使……失望"}
+  }
+]

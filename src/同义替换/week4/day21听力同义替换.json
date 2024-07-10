@@ -1,0 +1,78 @@
+[
+  {
+    "start": {"word": "consist of", "transform": "包括"},
+    "end": {"word": "include", "transform": "包括"}
+  },{
+    "start": {"word": "little", "transform": "很少有"},
+    "end": {"word": "hardly", "transform": "几乎没有"}
+  },{
+    "start": {"word": "mainly", "transform": "主要地"},
+    "end": {"word": "mostly", "transform": "大部分地"}
+  },{
+    "start": {"word": "improve", "transform": "改善"},
+    "end": {"word": "much better", "transform": "更好的"}
+  },{
+    "start": {"word": "employee", "transform": "雇员"},
+    "end": {"word": "staff", "transform": "职工"}
+  },{
+    "start": {"word": "communication", "transform": "沟通"},
+    "end": {"word": "keep in touch with", "transform": "保持联系"}
+  },{
+    "start": {"word": "knowledge", "transform": "知识"},
+    "end": {"word": "know", "transform": "知道"}
+  },{
+    "start": {"word": "field", "transform": "领域"},
+    "end": {"word": "area", "transform": "区域"}
+  },{
+    "start": {"word": "concentrate on", "transform": "专注于"},
+    "end": {"word": "focus on", "transform": "专注于"}
+  },{
+    "start": {"word": "not enough", "transform": "不足的"},
+    "end": {"word": "very little", "transform": "非常少"}
+  },{
+    "start": {"word": "technical", "transform": "技术的"},
+    "end": {"word": "specific to the field", "transform": "特定于某领域的"}
+  },{
+    "start": {"word": "in the future", "transform": "未来"},
+    "end": {"word": "later on", "transform": "之后"}
+  },{
+    "start": {"word": "different", "transform": "不同的"},
+    "end": {"word": "distinct", "transform": "不同的"}
+  },{
+    "start": {"word": "near", "transform": "靠近的"},
+    "end": {"word": "close to", "transform": "靠近的"}
+  },{
+    "start": {"word": "medical condition", "transform": "疾病"},
+    "end": {"word": "disease", "transform": "疾病"}
+  },{
+    "start": {"word": "strengthen", "transform": "增强"},
+    "end": {"word": "build up", "transform": "增强"}
+  },{
+    "start": {"word": "difficulty", "transform": "困难"},
+    "end": {"word": "problem", "transform": "问题"}
+  },{
+    "start": {"word": "leave sb's car at", "transform": "把车停在"},
+    "end": {"word": "park at", "transform": "把车停在"}
+  },{
+    "start": {"word": "and", "transform": "和"},
+    "end": {"word": "as well as", "transform": "和"}
+  },{
+    "start": {"word": "skill", "transform": "技术"},
+    "end": {"word": "technique", "transform": "技巧"}
+  },{
+    "start": {"word": "specialize in", "transform": "专门研究"},
+    "end": {"word": "an expert in", "transform": "专家"}
+  },{
+    "start": {"word": "every three hours", "transform": "每三个小时"},
+    "end": {"word": "regularly", "transform": "定期地"}
+  },{
+    "start": {"word": "post", "transform": "邮递"},
+    "end": {"word": "mail", "transform": "邮件"}
+  },{
+    "start": {"word": "investigate", "transform": "调查"},
+    "end": {"word": "study", "transform": "研究"}
+  },{
+    "start": {"word": "complicated", "transform": "复杂的"},
+    "end": {"word": "complex", "transform": "复杂的"}
+  }
+]

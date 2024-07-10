@@ -169,10 +169,22 @@
 </template>
 <script>
 import {ref,computed,onMounted,watch} from "vue"
+// import word from '../week1/day6同义替换Lesson1.json';
 // import word from '../week2/day8听力同义替换.json';
 // import word from '../week2/day9同义替换.json';
-import word from '../week2/day11阅读同义替换.json';
-// import word from '../week2/day13阅读同义替换.json';
+// import word from '../week2/day11阅读同义替换.json';
+import word from '../week2/day13阅读同义替换.json';
+// import word from '../week3/day15阅读同义替换.json';
+// import word from '../week4/day17阅读同义替换.json';
+// import word from '../week4/day17阅读同义替换2.json';
+// import word from '../week4/day19听力场景词.json';
+// import word from '../week4/day20阅读同义替换.json';
+// import word from '../week4/day21听力同义替换.json';
+// import word from '../week4/day21口语词汇艺术1.json';
+// import word from '../week4/day21口语词汇艺术2.json';
+//import word from '../week5/day22阅读同义替换.json';
+// import word from '../week5/day23口语词汇.json';
+//import word from '../week6/day26口语词汇.json';
 
 export default {
   components:{
