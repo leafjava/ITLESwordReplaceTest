@@ -1,0 +1,36 @@
+[
+  {
+    "start": {"word": "从...中获益", "transform": ""},
+    "end": {"word": "benefit from", "transform": ""}
+  },{
+    "start": {"word": "人力劳动", "transform": ""},
+    "end": {"word": "human labour", "transform": ""}
+  },{
+    "start": {"word": "重复性工作", "transform": ""},
+    "end": {"word": "repetitive work", "transform": ""}
+  },{
+    "start": {"word": "失业", "transform": ""},
+    "end": {"word": "become unemployed", "transform": ""}
+  },{
+    "start": {"word": "进一步拓宽", "transform": ""},
+    "end": {"word": "be further widened", "transform": ""}
+  },{
+    "start": {"word": "网络商业平台", "transform": ""},
+    "end": {"word": "online business platform", "transform": ""}
+  },{
+    "start": {"word": "线上公开课", "transform": ""},
+    "end": {"word": "online open course", "transform": ""}
+  },{
+    "start": {"word": "教育成本", "transform": ""},
+    "end": {"word": "educational cost", "transform": ""}
+  },{
+    "start": {"word": "创造就业机会", "transform": ""},
+    "end": {"word": "create employment opportunity", "transform": ""}
+  },{
+    "start": {"word": "提升生产效率", "transform": ""},
+    "end": {"word": "improve efficiency and productivity", "transform": ""}
+  },{
+    "start": {"word": "生活必需品", "transform": ""},
+    "end": {"word": "basic necessity of life", "transform": ""}
+  }
+]

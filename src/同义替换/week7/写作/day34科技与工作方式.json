@@ -1,0 +1,57 @@
+[
+  {
+    "start": {"word": "互联网的出现", "transform": ""},
+    "end": {"word": "the advent of the internet", "transform": ""}
+  },{
+    "start": {"word": "灵活的工作安排", "transform": ""},
+    "end": {"word": "a flexible working schedule", "transform": ""}
+  },{
+    "start": {"word": "视频会议", "transform": ""},
+    "end": {"word": "video conferencing", "transform": ""}
+  },{
+    "start": {"word": "虚拟在线办公室", "transform": ""},
+    "end": {"word": "virtual online offices", "transform": ""}
+  },{
+    "start": {"word": "制成表格", "transform": ""},
+    "end": {"word": "tabulate", "transform": ""}
+  },{
+    "start": {"word": "拼写检查器", "transform": ""},
+    "end": {"word": "spell-checker", "transform": ""}
+  },{
+    "start": {"word": "办公软件", "transform": ""},
+    "end": {"word": "office software", "transform": ""}
+  },{
+    "start": {"word": "提高工作效率", "transform": ""},
+    "end": {"word": "improve work efficiency", "transform": ""}
+  },{
+    "start": {"word": "线上资源", "transform": ""},
+    "end": {"word": "online resources", "transform": ""}
+  },{
+    "start": {"word": "远程学习和工作", "transform": ""},
+    "end": {"word": "distant learning and working", "transform": ""}
+  },{
+    "start": {"word": "减少工作中的危险", "transform": ""},
+    "end": {"word": "reduce risks at work", "transform": ""}
+  },{
+    "start": {"word": "化学实验", "transform": ""},
+    "end": {"word": "chemical experiment", "transform": ""}
+  },{
+    "start": {"word": "屏幕使用时间很长", "transform": ""},
+    "end": {"word": "long screen time", "transform": ""}
+  },{
+    "start": {"word": "视力恶化", "transform": ""},
+    "end": {"word": "deterioration of eyesight", "transform": ""}
+  },{
+    "start": {"word": "大量生产", "transform": ""},
+    "end": {"word": "mass production", "transform": ""}
+  },{
+    "start": {"word": "信息安全风险", "transform": ""},
+    "end": {"word": "information security risk", "transform": ""}
+  },{
+    "start": {"word": "被黑客攻击", "transform": ""},
+    "end": {"word": "get hacked", "transform": ""}
+  },{
+    "start": {"word": "信息泄露", "transform": ""},
+    "end": {"word": "information leakage", "transform": ""}
+  }
+]

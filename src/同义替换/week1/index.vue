@@ -176,7 +176,10 @@ import {ref,computed,onMounted,watch} from "vue"
 // import word from '../week1/day3阅读同义替换.json';
 // import word from '../week2/听力/口语提分词汇.json';
 // import word from '../week2/阅读/day11阅读语境内同义替换.json';
-import word from '../week7/写作/day34科技与人际关系.json';
+// import word from '../week7/写作/day34科技与人际关系.json';
+// import word from '../week7/写作/day34科技与工作方式.json';
+// import word from '../week7/写作/day34科技对贫富差距的影响.json';
+import word from '../week7/写作/day34科技类话题真题带练1.json';
 
 export default {
   components:{

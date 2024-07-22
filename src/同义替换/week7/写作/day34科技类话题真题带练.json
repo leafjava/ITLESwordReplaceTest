@@ -1,0 +1,39 @@
+[
+  {
+    "start": {"word": "replaceable", "transform": ""},
+    "end": {"word": "可被替代的", "transform": ""}
+  },{
+    "start": {"word": "repetitive work", "transform": ""},
+    "end": {"word": "重复性工作", "transform": ""}
+  },{
+    "start": {"word": "tedious/monotonous work", "transform": ""},
+    "end": {"word": "单调乏味的工作", "transform": ""}
+  },{
+    "start": {"word": "human labour", "transform": ""},
+    "end": {"word": "人工", "transform": ""}
+  },{
+    "start": {"word": "become unemployed", "transform": ""},
+    "end": {"word": "失业", "transform": ""}
+  },{
+    "start": {"word": "be further widened", "transform": ""},
+    "end": {"word": "进一步扩大", "transform": ""}
+  },{
+    "start": {"word": "online business platforms", "transform": ""},
+    "end": {"word": "网络商业平台", "transform": ""}
+  },{
+    "start": {"word": "online open courses", "transform": ""},
+    "end": {"word": "线上公开课程", "transform": ""}
+  },{
+    "start": {"word": "educational costs", "transform": ""},
+    "end": {"word": "受教育成本", "transform": ""}
+  },{
+    "start": {"word": "create employment opportunities", "transform": ""},
+    "end": {"word": "创造就业机会", "transform": ""}
+  },{
+    "start": {"word": "improve efficiency and productivity", "transform": ""},
+    "end": {"word": "提高效率和生产力", "transform": ""}
+  },{
+    "start": {"word": "basic necessity of life", "transform": ""},
+    "end": {"word": "生活必需品", "transform": ""}
+  }
+]
