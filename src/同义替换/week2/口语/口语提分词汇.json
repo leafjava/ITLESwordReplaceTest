@@ -1,0 +1,108 @@
+[
+  {
+    "start": {"word": "square", "transform": ""},
+    "end": {"word": "广场", "transform": ""}
+  },{
+    "start": {"word": "palace", "transform": ""},
+    "end": {"word": "宫殿", "transform": ""}
+  },{
+    "start": {"word": "theme park", "transform": ""},
+    "end": {"word": "主题公园", "transform": ""}
+  },{
+    "start": {"word": "residential/commercial building", "transform": ""},
+    "end": {"word": "居民/商业建筑", "transform": ""}
+  },{
+    "start": {"word": "high-rise building", "transform": ""},
+    "end": {"word": "高层建筑", "transform": ""}
+  },{
+    "start": {"word": "skyscraper", "transform": ""},
+    "end": {"word": "摩天大楼", "transform": ""}
+  },{
+    "start": {"word": "lobby", "transform": ""},
+    "end": {"word": "宾馆、影剧院", "transform": ""}
+  },{
+    "start": {"word": "a concrete jungle", "transform": ""},
+    "end": {"word": "钢筋混凝土丛林", "transform": ""}
+  },{
+    "start": {"word": "magnificent", "transform": ""},
+    "end": {"word": "极好的，壮丽的", "transform": ""}
+  },{
+    "start": {"word": "elegant", "transform": ""},
+    "end": {"word": "优雅的", "transform": ""}
+  },{
+    "start": {"word": "spacious", "transform": ""},
+    "end": {"word": "宽敞的", "transform": ""}
+  },{
+    "start": {"word": "well-ventilated", "transform": ""},
+    "end": {"word": "通风良好的", "transform": ""}
+  },{
+    "start": {"word": "chinese/european-styled", "transform": ""},
+    "end": {"word": "中式/欧式风格的", "transform": ""}
+  },{
+    "start": {"word": "neighborhood/community", "transform": ""},
+    "end": {"word": "社区", "transform": ""}
+  },{
+    "start": {"word": "dormitory", "transform": ""},
+    "end": {"word": "学生宿舍", "transform": ""}
+  },{
+    "start": {"word": "a 2/3-bedroom apartment", "transform": ""},
+    "end": {"word": "两/三居室的公寓", "transform": ""}
+  },{
+    "start": {"word": "en suite", "transform": ""},
+    "end": {"word": "带独立卫生间的", "transform": ""}
+  },{
+    "start": {"word": "studio", "transform": ""},
+    "end": {"word": "单间公寓", "transform": ""}
+  },{
+    "start": {"word": "master bedroom", "transform": ""},
+    "end": {"word": "主卧", "transform": ""}
+  },{
+    "start": {"word": "living room", "transform": ""},
+    "end": {"word": "客厅", "transform": ""}
+  },{
+    "start": {"word": "study", "transform": ""},
+    "end": {"word": "书房", "transform": ""}
+  },{
+    "start": {"word": "balcony", "transform": ""},
+    "end": {"word": "阳台", "transform": ""}
+  },{
+    "start": {"word": "rent", "transform": ""},
+    "end": {"word": "租金", "transform": ""}
+  },{
+    "start": {"word": "utility bills", "transform": ""},
+    "end": {"word": "水电费", "transform": ""}
+  },{
+    "start": {"word": "well-furnished", "transform": ""},
+    "end": {"word": "家具齐全的", "transform": ""}
+  },{
+    "start": {"word": "well-equipped", "transform": ""},
+    "end": {"word": "设备齐全的", "transform": ""}
+  },{
+    "start": {"word": "light and airy", "transform": ""},
+    "end": {"word": "阳光充足且通风良好的", "transform": ""}
+  },{
+    "start": {"word": "comfy", "transform": ""},
+    "end": {"word": "舒适的", "transform": ""}
+  },{
+    "start": {"word": "get along well with my roommate", "transform": ""},
+    "end": {"word": "和我的室友相处融洽", "transform": ""}
+  },{
+    "start": {"word": "create a cosy atmosphere", "transform": ""},
+    "end": {"word": "创造舒适的氛围", "transform": ""}
+  },{
+    "start": {"word": "a very lovely view from the window", "transform": ""},
+    "end": {"word": "窗外的美丽景色", "transform": ""}
+  },{
+    "start": {"word": "easy access to trasportation facilities", "transform": ""},
+    "end": {"word": "交通便利", "transform": ""}
+  },{
+    "start": {"word": "in/within walking distance", "transform": ""},
+    "end": {"word": "在步行范围内", "transform": ""}
+  },{
+    "start": {"word": "meet my needs and budget", "transform": ""},
+    "end": {"word": "满足我的需求和预算", "transform": ""}
+  },{
+    "start": {"word": "search for affordable housing", "transform": ""},
+    "end": {"word": "寻找经济实惠的住房", "transform": ""}
+  }
+]

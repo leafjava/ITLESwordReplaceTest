@@ -1,0 +1,48 @@
+[
+  {
+    "start": {"word": "be built into", "transform": "置于内部"},
+    "end": {"word": "be coated in", "transform": "被包裹"}
+  },{
+    "start": {"word": "less", "transform": "det. 较少的"},
+    "end": {"word": "limited", "transform": "adj. 有限的"}
+  },{
+    "start": {"word": "hypothesis", "transform": "n. 假说"},
+    "end": {"word": "idea", "transform": "n. 想法"}
+  },{
+    "start": {"word": "be down to", "transform": "由······引起"},
+    "end": {"word": "link", "transform": "v. (事物之间）相联系"}
+  },{
+    "start": {"word": "shape", "transform": "v. 塑造，使形成；使符合"},
+    "end": {"word": "depend on", "transform": "取决于"}
+  },{
+    "start": {"word": "popular", "transform": "adj. 流行的"},
+    "end": {"word": "current trend", "transform": "当前趋势"}
+  },{
+    "start": {"word": "not underestimate", "transform": "不能低估"},
+    "end": {"word": "take into consideration", "transform": "考虑到"}
+  },{
+    "start": {"word": "a series of laws exist", "transform": "存在着一系列规则"},
+    "end": {"word": "be governed", "transform": "被管理"}
+  },{
+    "start": {"word": "control", "transform": "控制"},
+    "end": {"word": "stop", "transform": "阻止"}
+  },{
+    "start": {"word": "protect ... against", "transform": "保护免受······的伤害"},
+    "end": {"word": "prevent ... from ...", "transform": "防止，避免"}
+  },{
+    "start": {"word": "spread", "transform": "传播"},
+    "end": {"word": "the spread of", "transform": "传播"}
+  },{
+    "start": {"word": "the virus would continue to circulate", "transform": "病毒可能会继续传播"},
+    "end": {"word": "may fail to have the desired effect", "transform": "可能达不到预期的效果"}
+  },{
+    "start": {"word": "has been linked to at least 400 deaths", "transform": "与至少400人死亡有关"},
+    "end": {"word": "dangerous", "transform": "危险的"}
+  },{
+    "start": {"word": "thoroughly tested", "transform": "彻底测试"},
+    "end": {"word": "further verification", "transform": "进一步验证"}
+  },{
+    "start": {"word": "effectively fight off the targeted illness", "transform": "有效击退目标疾病"},
+    "end": {"word": "reduce their inefficiency", "transform": "减少无效性"}
+  }
+]

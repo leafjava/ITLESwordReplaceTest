@@ -1,0 +1,48 @@
+[
+  {
+    "start": {"word": "human", "transform": "n. 人"},
+    "end": {"word": "local people", "transform": "当地人"}
+  },{
+    "start": {"word": "soil", "transform": "n. 土壤"},
+    "end": {"word": "earth", "transform": "n. 泥土，地球"}
+  },{
+    "start": {"word": "flow", "transform": "v./n. 流动"},
+    "end": {"word": "movement", "transform": "n. 运动、移动"}
+  },{
+    "start": {"word": "barrier", "transform": "n. 障碍，困难"},
+    "end": {"word": "difficulty", "transform": "n. 困难"}
+  },{
+    "start": {"word": "divide", "transform": "v. 分割"},
+    "end": {"word": "separate", "transform": "v. 分离"}
+  },{
+    "start": {"word": "... made of wood", "transform": "木质的"},
+    "end": {"word": "wooden ...", "transform": "木质的"}
+  },{
+    "start": {"word": "guide", "transform": "v. 指导、引导"},
+    "end": {"word": "navigate", "transform": "v.导航"}
+  },{
+    "start": {"word": "runs", "transform": "v. 跑动"},
+    "end": {"word": "flow", "transform": "v. 流动"}
+  },{
+    "start": {"word": "supply for", "transform": "供应给"},
+    "end": {"word": "be used by", "transform": "用于"}
+  },{
+    "start": {"word": "not disrupted", "transform": "不中断的"},
+    "end": {"word": "smooth", "transform": "adj. 顺利的"}
+  },{
+    "start": {"word": "harder", "transform": "adj. 更难的"},
+    "end": {"word": "decrease the opportunities for", "transform": "减少······的机会"}
+  },{
+    "start": {"word": "make crossings", "transform": "穿过马路"},
+    "end": {"word": "cross the road", "transform": "穿过马路"}
+  },{
+    "start": {"word": "keep to their designated route", "transform": "  保持在指定的路上"},
+    "end": {"word": "direct(ing)", "transform": "指引"}
+  },{
+    "start": {"word": "provide solutions to", "transform": "提供解决方法"},
+    "end": {"word": "improve", "transform": "改善"}
+  },{
+    "start": {"word": "without disruption", "transform": "没有干扰"},
+    "end": {"word": "smoothly", "transform": "顺利"}
+  }
+]

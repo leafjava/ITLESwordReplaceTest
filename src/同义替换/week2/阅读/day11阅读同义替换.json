@@ -1,0 +1,24 @@
+[
+  {
+    "start": {"word": "exposure", "transform": "n. 暴露，接触"},
+    "end": {"word": "contact", "transform": "v. 接触，联系"}
+  },{
+    "start": {"word": "effort", "transform": "n. 努力"},
+    "end": {"word": "attempt", "transform": "n. 尝试，努力"}
+  },{
+    "start": {"word": "need", "transform": "v. 需要"},
+    "end": {"word": "require", "transform": "v. 需要，要求"}
+  },{
+    "start": {"word": "rule", "transform": "n. 规则"},
+    "end": {"word": "law", "transform": "n. 法规，规则"}
+  },{
+    "start": {"word": "environment", "transform": "n. 环境"},
+    "end": {"word": "context", "transform": "n. 语境，环境"}
+  },{
+    "start": {"word": "understand", "transform": "v. 理解，了解"},
+    "end": {"word": "appreciation", "transform": "n. 理解，感谢"}
+  },{
+    "start": {"word": "decode", "transform": "v. 解码"},
+    "end": {"word": "find meaning", "transform": "找到意义"}
+  }
+]
