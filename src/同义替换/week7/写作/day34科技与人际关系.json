@@ -1,0 +1,96 @@
+[
+  {
+    "start": {"word": "使便利", "transform": ""},
+    "end": {"word": "facilitate", "transform": ""}
+  },{
+    "start": {"word": "亲自去见某人", "transform": ""},
+    "end": {"word": "physically travel to see someone", "transform": ""}
+  },{
+    "start": {"word": "即时通讯工具", "transform": ""},
+    "end": {"word": "instant messaging tools", "transform": ""}
+  },{
+    "start": {"word": "没有障碍地交流", "transform": ""},
+    "end": {"word": "communicate without barriers", "transform": ""}
+  },{
+    "start": {"word": "提供即时信息", "transform": ""},
+    "end": {"word": "give instant access to information", "transform": ""}
+  },{
+    "start": {"word": "没有延迟", "transform": ""},
+    "end": {"word": "without any delay", "transform": ""}
+  },{
+    "start": {"word": "实时", "transform": ""},
+    "end": {"word": "in real time", "transform": ""}
+  },{
+    "start": {"word": "变得广泛可用", "transform": ""},
+    "end": {"word": "become widely available", "transform": ""}
+  },{
+    "start": {"word": "社交媒体", "transform": ""},
+    "end": {"word": "social media", "transform": ""}
+  },{
+    "start": {"word": "社交网站", "transform": ""},
+    "end": {"word": "social networking website", "transform": ""}
+  },{
+    "start": {"word": "上网", "transform": ""},
+    "end": {"word": "surf the internet", "transform": ""}
+  },{
+    "start": {"word": "各行各业的朋友", "transform": ""},
+    "end": {"word": "friends from all walks of life", "transform": ""}
+  },{
+    "start": {"word": "使多样化", "transform": ""},
+    "end": {"word": "diversify", "transform": ""}
+  },{
+    "start": {"word": "交流方式", "transform": ""},
+    "end": {"word": "means of communication", "transform": ""}
+  },{
+    "start": {"word": "言语，文字", "transform": ""},
+    "end": {"word": "text/words", "transform": ""}
+  },{
+    "start": {"word": "图片", "transform": ""},
+    "end": {"word": "picture", "transform": ""}
+  },{
+    "start": {"word": "表情符号", "transform": ""},
+    "end": {"word": "emoji", "transform": ""}
+  },{
+    "start": {"word": "视频聊天", "transform": ""},
+    "end": {"word": "video messaging", "transform": ""}
+  },{
+    "start": {"word": "阻碍人际关系", "transform": ""},
+    "end": {"word": "hinder interpersonal relationships", "transform": ""}
+  },{
+    "start": {"word": "娱乐方式", "transform": ""},
+    "end": {"word": "forms of entertainment", "transform": ""}
+  },{
+    "start": {"word": "上瘾的，沉迷的", "transform": ""},
+    "end": {"word": "addictive", "transform": ""}
+  },{
+    "start": {"word": "在场", "transform": ""},
+    "end": {"word": "physically present", "transform": ""}
+  },{
+    "start": {"word": "错过与他人的交流", "transform": ""},
+    "end": {"word": "miss the communication with others", "transform": ""}
+  },{
+    "start": {"word": "使我们脱离...", "transform": ""},
+    "end": {"word": "detach us from", "transform": ""}
+  },{
+    "start": {"word": "青少年", "transform": ""},
+    "end": {"word": "adolescent/teenager/youth", "transform": ""}
+  },{
+    "start": {"word": "社交活动变少", "transform": ""},
+    "end": {"word": "less socially active", "transform": ""}
+  },{
+    "start": {"word": "发展健康的关系", "transform": ""},
+    "end": {"word": "develop healthy relationships", "transform": ""}
+  },{
+    "start": {"word": "一个令人担忧的社会现象", "transform": ""},
+    "end": {"word": "an alarming social phenomenon", "transform": ""}
+  },{
+    "start": {"word": "心理问题", "transform": ""},
+    "end": {"word": "mental problem", "transform": ""}
+  },{
+    "start": {"word": "一种危险的分散注意力的行为", "transform": ""},
+    "end": {"word": "a dangerous distraction", "transform": ""}
+  },{
+    "start": {"word": "孤独", "transform": ""},
+    "end": {"word": "loneliness", "transform": ""}
+  }
+]
